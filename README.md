@@ -6,7 +6,7 @@ Litematica Redstone Stick Farm (1.21+)
 A collection of my Minecraft builds in the Litematica (.litematic) format.
 
 ## Requirements
-- Minecraft Java Edition
+- Minecraft Java Edition (might work on bedrock but not 100% sure)
 - Minecraft Java 1.21+ (minimum) 
 - Litematica
 - MaLiLib
